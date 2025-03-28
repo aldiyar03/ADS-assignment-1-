@@ -1,4 +1,4 @@
-public class Last_task {
+public class Task_10 {
     /**
      * This method calculates the greatest common divisor (GCD) of two numbers using the Euclidean algorithm.
      *
