@@ -1,4 +1,4 @@
-public class Main {
+public class Task_1 {
     /**
      * This method finds the minimum number in the given array.
      *
